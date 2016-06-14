@@ -16,7 +16,7 @@ var Payeezy = function() {
     }
 
     function t() {
-        var e = [];
+        var i, e = [];
         var t = document.getElementsByTagName("input");
         var n = document.getElementsByTagName("select");
         for (i = 0; i < t.length; i++) {
